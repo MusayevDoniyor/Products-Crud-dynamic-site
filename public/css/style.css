@@ -1,0 +1,161 @@
+/* General Styles */
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #1e1e2e;
+  color: #ffffff;
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+}
+
+h1,
+h2 {
+  color: #ffcc00;
+}
+
+/* Buttons */
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 10px 0;
+  background-color: #ffcc00;
+  color: #000;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background-color: #ff9900;
+}
+
+/* Table */
+table {
+  width: 100%;
+  max-width: 800px;
+  margin: 20px auto;
+  border-collapse: collapse;
+  background: #282a36;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+th,
+td {
+  padding: 12px;
+  border: 1px solid #444;
+  text-align: center;
+}
+
+th {
+  background: #ffcc00;
+  color: #000;
+}
+
+td {
+  background: #383b4a;
+}
+
+a {
+  color: #ffcc00;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Delete Button */
+button {
+  background-color: #ff4444;
+  border: none;
+  color: white;
+  padding: 10px 15px;
+  font-size: 14px;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: 0.3s;
+}
+
+button:hover {
+  background-color: #cc0000;
+}
+
+/* Form Styles */
+form {
+  width: 100%;
+  max-width: 400px;
+  background: #282a36;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.1);
+}
+
+label {
+  display: block;
+  text-align: left;
+  margin: 10px 0 5px;
+  font-weight: bold;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ffcc00;
+  border-radius: 5px;
+  background: #383b4a;
+  color: white;
+}
+
+input:focus {
+  outline: none;
+  border-color: #ff9900;
+}
+
+button[type="submit"] {
+  width: 100%;
+  background-color: #ffcc00;
+  color: #000;
+  padding: 12px;
+  font-weight: bold;
+}
+
+button[type="submit"]:hover {
+  background-color: #ff9900;
+}
+
+/* 404 Page */
+p {
+  margin-bottom: 20px;
+}
+
+a.go-home {
+  display: inline-block;
+  padding: 10px 15px;
+  background: #ffcc00;
+  color: black;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+a.go-home:hover {
+  background: #ff9900;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  table {
+    font-size: 14px;
+  }
+  th,
+  td {
+    padding: 8px;
+  }
+  form {
+    padding: 15px;
+  }
+}

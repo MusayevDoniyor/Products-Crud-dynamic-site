@@ -1,0 +1,32 @@
+[
+  {
+    "id": "191046ef-b508-4e53-ad73-6bc2b3e81c9e",
+    "name": "MacBook Pro 16",
+    "price": 2500
+  },
+  {
+    "id": "dae2ffbb-7330-4e90-bad0-ea70527d3fed",
+    "name": "iPhone 15 Pro",
+    "price": 1200
+  },
+  {
+    "id": "c6a12bfe-04be-4010-bd74-5b896e7a3c29",
+    "name": "Samsung Galaxy S24",
+    "price": 1100
+  },
+  {
+    "id": "b9403575-294a-431d-930c-97a78c436f9c",
+    "name": "Logitech MX Master 3",
+    "price": "1234"
+  },
+  {
+    "name": "Samsung A10S",
+    "price": 14000,
+    "id": "80f2660d-42f6-4cc0-8d23-2b1763f9dcdb"
+  },
+  {
+    "name": "Oshqovoq",
+    "price": "12",
+    "id": "b6df5c96-2b5d-444c-8973-53855088ca73"
+  }
+]

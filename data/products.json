@@ -1,10 +1,5 @@
 [
   {
-    "id": "191046ef-b508-4e53-ad73-6bc2b3e81c9e",
-    "name": "MacBook Pro 16",
-    "price": 2500
-  },
-  {
     "id": "dae2ffbb-7330-4e90-bad0-ea70527d3fed",
     "name": "iPhone 15 Pro",
     "price": 1200
@@ -26,7 +21,12 @@
   },
   {
     "name": "Oshqovoq",
-    "price": "12",
-    "id": "b6df5c96-2b5d-444c-8973-53855088ca73"
+    "price": "123112",
+    "id": "ed9e348b-cc1a-4b95-a8f2-c16def70d1a9"
+  },
+  {
+    "name": "Asus Rog Strix Scar G18",
+    "price": 14000,
+    "id": "1b3f101c-c915-49a7-abad-97a8b23865bf"
   }
 ]
